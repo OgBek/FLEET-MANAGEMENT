@@ -54,5 +54,13 @@ my project screen shots
 for running the frontend use "npm run dev"  command 
 for running the backend just start apache server and mysql on xampp 
 
-make sure the project file is in xampp htdocs
+## make sure the project file is in xampp htdocs
+
+## this system has an admin,department head,department staff,driver and maintenance staff actors so u can use the credientials below  for testing purpose
+use email--- admin@fleet.com ,head@fleet.com,staff@fleet.com,driver@fleet.com,maintenace@fleet.com
+password-----password123
+
+## ETHIOPIA DILLA UNIVERSITY FINAL YEAR PROJECT
+
+
 
