@@ -51,6 +51,8 @@ my project screen shots
 
 
 ## how to run 
+u can import the sql file into xampp mysql or u can run the migration files to use the database
+
 for running the frontend use "npm run dev"  command 
 for running the backend just start apache server and mysql on xampp 
 
