@@ -25,7 +25,34 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+my project screen shots
+## 📸 Screenshots
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### Pic 1
+![Pic 1](Screenshot%202025-05-09%20225441.png)
+
+### Pic 2
+![Pic 2](Screenshot%202025-05-09%20225543.png)
+
+### Pic 3
+![Pic 3](Screenshot%202025-05-09%20225822.png)
+
+### Pic 4
+![Pic 4](Screenshot%202025-05-09%20225917.png)
+
+### Pic 5
+![Pic 5](Screenshot%202025-05-09%20225956.png)
+
+### Pic 6
+![Pic 6](Screenshot%202025-05-09%20230110.png)
+
+### Pic 7
+![Pic 7](Screenshot%202025-05-09%20230133.png)
+
+
+## how to run 
+for running the frontend use "npm run dev"  command 
+for running the backend just start apache server and mysql on xampp 
+
+make sure the project file is in xampp htdocs
 
